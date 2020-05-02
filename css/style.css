@@ -1,0 +1,155 @@
+* {
+	margin: 0PX;
+	padding: 0PX;
+}
+body {
+   background-color: white;
+}
+
+.container {
+	width: 1140PX;
+	margin: 0 auto;
+}
+
+.one {
+	text-align: center;
+	margin: 20px;
+}
+
+.one h1 {
+    padding: 39px;
+    
+}
+
+.one span {
+    border-bottom: 2px solid red;
+    display: block;
+    margin: 0 auto;
+    width: 344px;
+    margin-top: -35px;
+}
+
+.one-1 img {
+	margin: 0 auto;
+	display: block;
+	border-radius:20px;
+	border: double;
+}
+
+center {
+    font-size: 24px;
+}
+
+.personal {
+	text-align: center;
+	margin: 10px;
+	background-color: green;
+	border-radius: 10px;
+}
+
+.personal h1 {
+	font-size: 21px;
+	border-radius: 24px;
+}
+.personal-1 ul {
+    margin: 0px 0px 0px 50px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.personal-1 li {
+    margin: 20px;
+     padding: 10px;
+     list-style: lower-roman;
+}
+.education h3 {
+    text-align: center;
+    font-size: 21px;
+    margin: 40px;
+    background-color: green;
+    border-radius: 20px;
+}
+
+.education table {
+    padding: 2px;
+    margin: 0px auto;
+    color: black;
+    border: 3px solid #27af414d;
+}
+
+.computer h3 {
+    text-align: center;
+    margin: 23px;
+    background-color: green;
+    border-radius: 10px;
+    font-size: 21px;
+}
+
+.computer p {
+	font-size: 30px;
+    margin: 25px;
+}
+
+.language h1 {
+	text-align: center;
+    margin: 23px;
+    background-color: green;
+    border-radius: 10px;
+    font-size: 21px;
+
+}
+
+.language p {
+	font-size: 30px;
+    margin: 25px;
+
+}
+
+.OBJECTIVES h1 {
+	text-align: center;
+    margin: 23px;
+    background-color: green;
+    border-radius: 10px;
+    font-size: 21px;
+
+}
+
+.OBJECTIVES p {
+	font-size: 30px;
+    margin: 25px;
+}
+
+.address h1 {
+	text-align: center;
+    margin: 23px;
+    background-color: green;
+    border-radius: 10px;
+    font-size: 21px;
+}
+
+.address-1 ul li {
+    font-size: 25px;
+    margin: 40px;
+
+}
+
+.signuture {
+    width: 100%;
+    height: 20%;
+    float: left;
+}
+
+.signuture h4 {
+    margin-left: 75%;
+    padding: 75px;
+}
+
+
+.signuture span {
+    border-bottom: 2px solid black;
+    display: block;
+    margin: 0 auto;
+    width: 90px;
+    margin-top: -74px;
+    margin-left: 80%;
+}
